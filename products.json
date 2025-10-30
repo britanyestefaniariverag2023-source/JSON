@@ -1,0 +1,122 @@
+[
+  {
+    "id": 21,
+    "nombre": "Laptop ASUS VivoBook 15 Ryzen 7",
+    "precio": 13999,
+    "imagen": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3556c1afc83c13ab/image/i3de6348905cd24c9/version/1579711344/image.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Smartphone iPhone 15 128GB",
+    "precio": 21499,
+    "imagen": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Tablet Samsung Galaxy Tab S9 FE",
+    "precio": 8999,
+    "imagen": "https://mott.pe/noticias/wp-content/uploads/2017/10/18.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Audífonos Sony WH-1000XM5",
+    "precio": 7899,
+    "imagen": "https://st4.depositphotos.com/1843265/23097/i/450/depositphotos_230976506-stock-photo-industrial-technological-objects-beautiful-view.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Monitor LG Ultragear 27\" 165Hz",
+    "precio": 4999,
+    "imagen": "https://gcdn.emol.cl/tecnologia/files/2015/06/objetos-tecnologicos-1.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Teclado Mecánico Corsair K70 RGB",
+    "precio": 2999,
+    "imagen": "https://mott.pe/noticias/wp-content/uploads/2017/10/4.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Mouse Razer DeathAdder V2",
+    "precio": 1299,
+    "imagen": "https://camptecnologico.com/wp-content/uploads/2019/06/discman.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Smartwatch Samsung Galaxy Watch 6",
+    "precio": 7499,
+    "imagen": "https://estaticos-cdn.prensaiberica.es/clip/717c9d5a-07bb-483a-b565-26aaea00832e_source-aspect-ratio_default_0.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Cámara GoPro Hero 12 Black",
+    "precio": 9499,
+    "imagen": "https://rigobertoinzunza.wordpress.com/wp-content/uploads/2013/07/foto_0000001620121227152159.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Bocina Bluetooth JBL Flip 6",
+    "precio": 2399,
+    "imagen": "https://www.lifeder.com/wp-content/uploads/2020/02/Reproductor-portatil-de-musica-1.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Cargador Rápido Anker 45W USB-C",
+    "precio": 799,
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgej457cXiUsbnHMx6MYoaEl5egZvyhjR7EFtMH6PqVrbZ26YjbDC1V6G4yrY-OuG7S8anxmCWf0qv4C3d-2I2fFJ835OPNoqjKM_uw1bphGPbIRmhMe_DcyJUh0WctKP0vTcfUKf90nixy/s1600/celular-iphone-37212.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "SSD Kingston NV2 1TB NVMe",
+    "precio": 1299,
+    "imagen": "https://i5.walmartimages.com/asr/7e847c55-768a-45fb-98ba-62333195801f.451f713f9709cf12969b10e48d249b0b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  },
+  {
+    "id": 33,
+    "nombre": "Memoria RAM Corsair Vengeance 16GB DDR4",
+    "precio": 999,
+    "imagen": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/tech.batanga.com/files/Programas-para-analisis-de-memoria-RAM-2.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Consola Xbox Series X 1TB",
+    "precio": 13499,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh95VkISJU1JTIfhgao9kiynATpGZqpgMDag&s"
+  },
+  {
+    "id": 35,
+    "nombre": "Control Inalámbrico Xbox Series",
+    "precio": 1499,
+    "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-304646-nintendo-entertainment-sistem.jpg?c=original&q=h_447,c_fill"
+  },
+  {
+    "id": 36,
+    "nombre": "Parlante Inteligente Echo Dot 5ª Gen",
+    "precio": 1099,
+    "imagen": "https://coolboxmx.vtexassets.com/arquivos/ids/167024/245161-1600-1600.jpg.jpg?v=638937166437670000"
+  },
+  {
+    "id": 37,
+    "nombre": "Router Mesh TP-Link Deco X20",
+    "precio": 3899,
+    "imagen": "https://chefman.com.mx/cdn/shop/files/RJ38-5-T-BLACK-MX-2.jpg?v=1714494193"
+  },
+  {
+    "id": 38,
+    "nombre": "Cámara Instax Mini 12",
+    "precio": 2599,
+    "imagen": "https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/4547410489002.jpg?scale=500&qlty=75"
+  },
+  {
+    "id": 39,
+    "nombre": "Silla Ergonómica Secretlab Titan Evo",
+    "precio": 11999,
+    "imagen": "https://sillasdeoficinasitt.mx/wp-content/cache/seraphinite-accelerator/s/m/d/img/a83b5d767a319d7b8375f8f46bbc0ee4.ccc74.png"
+  },
+  {
+    "id": 40,
+    "nombre": "Microfono Blue Yeti X",
+    "precio": 3499,
+    "imagen": "https://ss631.liverpool.com.mx/xl/1118246523.jpg"
+  }
+]

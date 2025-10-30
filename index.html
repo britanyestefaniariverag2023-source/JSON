@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Catalogo de productos</title>
+</head>
+<body>
+    <h1>Catalogo De Productos</h1>
+    <!-- 🔹 Formulario para agregar productos -->
+    <section id="formulario">
+    <h2>Agregar nuevo producto</h2>
+    <form id="form-agregar">
+        <input type="text" id="nombre" placeholder="Nombre del producto" required>
+        <input type="number" id="precio" placeholder="Precio en MXN" required>
+        <input type="text" id="imagen" placeholder="URL de la imagen" required>
+        <button type="submit">Agregar Producto</button>
+    </form>
+    </section>
+
+    <!-- 🔹 Contenedor principal de productos -->
+    <div id="contenedor-productos"></div>
+</body>
+<script src="script.js"></script>
+</html>
